@@ -1,1 +1,1 @@
-[![rgbailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgbailey)](https://github.com/rgbailey/github-readme-stats)
+[![rgbailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgbailey&count_private=true)](https://github.com/rgbailey/github-readme-stats)
