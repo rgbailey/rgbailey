@@ -8,7 +8,6 @@ I build products that solve real problems — compliance platforms, algorithmic 
 
 - **CivRel** — SCRA compliance platform helping businesses protect servicemembers' rights (TypeScript/Django)
 - **Trader** — Algorithmic forex trading bot with AI-driven macro analysis and risk management (Python/asyncio)
-- **DemoOps** — Automated demo video generation with AI narration and callouts (Python)
 
 ### Stack
 
