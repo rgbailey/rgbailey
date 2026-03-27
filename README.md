@@ -14,15 +14,6 @@ I build products that solve real problems — compliance platforms, algorithmic 
 
 `Python` `TypeScript` `Django` `Next.js` `React` `FastAPI` `AWS` `Docker` `PostgreSQL` `SQLite`
 
-### Stats
-
-| | |
-|---|---|
-| Repos | 81 |
-| Commits (last year) | 1,788 |
-| Top Languages | Python, TypeScript, Java, HTML, JavaScript, C++ |
-| Building since | 2014 |
-
 ### Connect
 
 [![Website](https://img.shields.io/badge/revlent.com-000?style=flat&logo=safari&logoColor=white)](https://www.revlent.com)
