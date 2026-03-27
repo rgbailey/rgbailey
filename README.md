@@ -16,9 +16,12 @@ I build products that solve real problems — compliance platforms, algorithmic 
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgbailey&layout=compact&theme=tokyonight)](https://github.com/rgbailey)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rgbailey&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)](https://github.com/rgbailey)
+| | |
+|---|---|
+| Repos | 81 |
+| Commits (last year) | 1,788 |
+| Top Languages | Python, TypeScript, Java, HTML, JavaScript, C++ |
+| Building since | 2014 |
 
 ### Connect
 
