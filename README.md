@@ -11,7 +11,7 @@ I build products that solve real problems — compliance platforms, algorithmic 
 
 ### Stack
 
-`Python` `TypeScript` `Django` `Next.js` `React` `FastAPI` `AWS` `Docker` `PostgreSQL` `SQLite`
+`Python` `TypeScript` `Django` `Next.js` `React` `FastAPI` `AWS` `Docker` `PostgreSQL`
 
 ### Connect
 
